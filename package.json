@@ -1,0 +1,12 @@
+{
+  "name": "movie_graph_ql",
+  "version": "1.0.0",
+  "description": "Movie API with Graphql",
+  "main": "index.js",
+  "repository": "https://github.com/KirschX/movieql",
+  "author": "Jung HyeonWook<mk44879@naver.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
+}
